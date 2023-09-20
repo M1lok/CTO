@@ -39,3 +39,7 @@ nav {
     padding-bottom: 5px;
     text-align: center;
 }
+img {
+    height: 100px;
+    width: 100px;
+}
